@@ -1,4 +1,4 @@
-	original reference: https://gist.githubusercontent.com/kevin-smets/8568070/raw/7c56f218fc74af37f822a59cf8b147569408c893/iterm2-solarized_instructions.md
+Original Post Reference: [Link](https://gist.githubusercontent.com/kevin-smets/8568070/raw/7c56f218fc74af37f822a59cf8b147569408c893/iterm2-solarized_instructions.md)
 
 # How to install
 
